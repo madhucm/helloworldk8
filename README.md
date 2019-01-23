@@ -30,5 +30,5 @@ Execute below steps to deploy pods.
   http://192.168.99.103:32250
   ```
   - Access your service via browser or curl
-    http://<<ip-of-vm>>:32250
+    http://[ip_of_vm]:32250
 
